@@ -50,6 +50,8 @@ The lifecycle involves multiple steps per below.
 
 Natural Language Processing or NLP is a field of Artificial Intelligence that gives the machines the ability to read, understand and derive meaning from human languages. We will understand more about NLP in detail by starting from basics and move ahead to solve an usecase using IBM technology. Ex :- Understand sentiments from text, process and summarize text etc.
 
+[Basics of NLP](https://github.com/RK-Sharath/NLP)
+
 [Click here to know more about NLP](https://github.com/IBM/text-summarization-and-visualization-using-watson-studio/blob/master/CBSE-README.md)
 
 ## Data exploration & visualization
